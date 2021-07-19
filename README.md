@@ -15,9 +15,10 @@ Program files related to this project can be found in the `Neural_Network_Charit
 - [AlphabetSoupCharity.ipynb](AlphabetSoupCharity.ipynb) : Jupyter Notebook containing deliverables 1 and 2.
 - [AlphabetSoupCharity_Optimization.ipynb](AlphabetSoupCharity_Optimization.ipynb) : Jupyter Notebook containing deliverable 3.
 - [AlphabetSoupCharity.h5](AlphabetSoupCharity.h5) : trained model from deliverable 2.
-
+- [AlphabetSoupCharity_Optimized.h5](AlphabetSoupCharity_Optimized.h5) : trained model from deliverable 3.
 - [/Resources/charity_data.csv](/Resources/charity_data.csv) : dataset
 - [/checkpoints_deliverable2/](/checkpoints_deliverable2/) : folder containing checkpoints during training of model in deliverable 2.
+- [/checkpoints_deliverable3/](/checkpoints_deliverable2/) : folder containing checkpoints during training of model in deliverable 3.
 
 ### Data Preprocessing
 
